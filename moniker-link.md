@@ -1,3 +1,6 @@
+# Moniker Link (CVE-2024-21413) — TryHackMe
+Комната: https://tryhackme.com/room/monikerlink
+
 # Microsoft Windows Server 2019 Standard (10.0.17763 Build 17763) - Получение удаленного доступа
 
 Цель: нужно, чтобы пользователь нажал на ссылку в Outlook.
